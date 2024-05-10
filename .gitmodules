@@ -1,0 +1,3 @@
+[submodule "AURA_SDK"]
+	path = AURA_SDK
+	url = https://github.com/edgarhernandez94/AURA_SDK.git
